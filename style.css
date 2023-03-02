@@ -1,0 +1,33 @@
+body{
+    position: relative;
+}
+
+.aaa1{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 700;
+    color: blue;
+   
+}
+#a2{
+    margin-left: 30px;
+   
+}
+#a3{
+    margin-left: 100px;
+}
+#a4{
+    margin-left: 100px;
+}
+.search_header{
+  display: flex;
+text-decoration: none;
+   
+}
+
+footer{
+    margin-left: -290px;
+    margin-top: 240vh;
+    width: 1995px;
+    padding: 0;
+}
