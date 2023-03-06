@@ -1,0 +1,234 @@
+
+    *{ 
+    padding: 0;
+    margin: 0;
+}
+.aaa1{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 700;
+    color: blue;
+   
+}
+.d1{
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: -300px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+
+.d2{
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+
+.im1{
+    width: 180px;
+    height: 260px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.p1{
+    margin-left: 66px;
+    text-decoration: none;
+    color:#141212;
+    font-weight: 600;
+}
+
+.h2{
+    color:#141212;
+    margin-left: 230px;
+    margin-top: -340px;
+}
+.p2{
+    font-size: 16px;
+    font-weight: 200;
+    margin-top: 10px;
+    margin-left: 230px;
+}
+.p3,.p3 {
+    color: black;
+    margin-left: 230px;
+}
+.janr{
+    font-size: 16px;
+    font-weight: 200;
+    height: 30px;
+    width: 78px;
+    margin-top: 20px;
+    border: 2px solid #22528B;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 230px;
+}
+.janr2{
+   margin-left: 230px;
+   font-weight: 200;
+   font-size: 16px;
+   height: 30px;
+   width: 78px;
+   border: solid 2px #22528B;
+   border-radius: 5px;
+   text-align: center;
+}
+.janrin{
+    margin-top: 5px;
+}
+.text{
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: 230px;
+}
+.text2{
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: 230px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background: #22528B;
+    color:white;
+    margin-left: 230px;
+}
+.s1,.s2 {
+    color: white;
+}
+footer{
+    margin-left: -400px;
+}
+.q,.q1 {
+    font-size: 15px;
+}
+
+.d3 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+
+.d4 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+
+.d5 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+
+.d6 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d7 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d8 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d9 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d10 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d11 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d12 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+}
+.d13 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+} 
+.cc {
+    font-size: 15px;
+    font-weight: 600;
+}
+.d14 {
+    width: 800px;
+    height: 500px;
+    background-color: #FFFFFF;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 5px;
+    box-shadow: #141212 2px 2px 2px 2px;
+} 
+.footer{
+    margin-left: -400px;
+}
